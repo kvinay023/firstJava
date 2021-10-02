@@ -1,4 +1,5 @@
 #!/bin/bash
 uname -a
-df -h
-ls -lrt
+ps -ef
+top
+free
